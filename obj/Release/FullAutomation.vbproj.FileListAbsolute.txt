@@ -1,0 +1,31 @@
+\\omt-file06\Users Public Shared\MLutz\1. Programming\Automation\FullAutomation\bin\Release\FullAutomation.dll.config
+\\omt-file06\Users Public Shared\MLutz\1. Programming\Automation\FullAutomation\bin\Release\FullAutomation.dll
+\\omt-file06\Users Public Shared\MLutz\1. Programming\Automation\FullAutomation\bin\Release\FullAutomation.pdb
+\\omt-file06\Users Public Shared\MLutz\1. Programming\Automation\FullAutomation\bin\Release\FullAutomation.xml
+\\omt-file06\Users Public Shared\MLutz\1. Programming\Automation\FullAutomation\bin\Release\FullAutomation.tlb
+\\omt-file06\Users Public Shared\MLutz\1. Programming\Automation\FullAutomation\bin\Release\SolidWorks.Interop.sldworks.dll
+\\omt-file06\Users Public Shared\MLutz\1. Programming\Automation\FullAutomation\bin\Release\SolidWorks.Interop.swconst.dll
+\\omt-file06\Users Public Shared\MLutz\1. Programming\Automation\FullAutomation\bin\Release\SQLdb.dll
+\\omt-file06\Users Public Shared\MLutz\1. Programming\Automation\FullAutomation\bin\Release\SQLdb.pdb
+\\omt-file06\Users Public Shared\MLutz\1. Programming\Automation\FullAutomation\bin\Release\SQLdb.xml
+\\omt-file06\Users Public Shared\MLutz\1. Programming\Automation\FullAutomation\obj\Release\FullAutomation.vbproj.AssemblyReference.cache
+\\omt-file06\Users Public Shared\MLutz\1. Programming\Automation\FullAutomation\obj\Release\Interop.EPDMLibLib.dll
+\\omt-file06\Users Public Shared\MLutz\1. Programming\Automation\FullAutomation\obj\Release\FullAutomation.vbproj.ResolveComReference.cache
+\\omt-file06\Users Public Shared\MLutz\1. Programming\Automation\FullAutomation\obj\Release\FullAutomation.Resources.resources
+\\omt-file06\Users Public Shared\MLutz\1. Programming\Automation\FullAutomation\obj\Release\FullAutomation.setupPage.resources
+\\omt-file06\Users Public Shared\MLutz\1. Programming\Automation\FullAutomation\obj\Release\FullAutomation.vbproj.GenerateResource.cache
+\\omt-file06\Users Public Shared\MLutz\1. Programming\Automation\FullAutomation\obj\Release\FullAutomation.vbproj.CoreCompileInputs.cache
+\\omt-file06\Users Public Shared\MLutz\1. Programming\Automation\FullAutomation\obj\Release\FullAutomation.dll
+\\omt-file06\Users Public Shared\MLutz\1. Programming\Automation\FullAutomation\obj\Release\FullAutomation.xml
+\\omt-file06\Users Public Shared\MLutz\1. Programming\Automation\FullAutomation\obj\Release\FullAutomation.pdb
+\\omt-file06\Users Public Shared\MLutz\1. Programming\Automation\FullAutomation\obj\Release\FullAuto.EFCF84A0.Up2Date
+U:\MLutz\1. Programming\Automation\FullAutomation\obj\Release\FullAutomation.vbproj.AssemblyReference.cache
+U:\MLutz\1. Programming\Automation\FullAutomation\obj\Release\Interop.EPDMLibLib.dll
+U:\MLutz\1. Programming\Automation\FullAutomation\obj\Release\FullAutomation.vbproj.ResolveComReference.cache
+U:\MLutz\1. Programming\Automation\FullAutomation\obj\Release\FullAutomation.Resources.resources
+U:\MLutz\1. Programming\Automation\FullAutomation\obj\Release\FullAutomation.setupPage.resources
+U:\MLutz\1. Programming\Automation\FullAutomation\obj\Release\FullAutomation.vbproj.GenerateResource.cache
+U:\MLutz\1. Programming\Automation\FullAutomation\obj\Release\FullAutomation.vbproj.CoreCompileInputs.cache
+U:\MLutz\1. Programming\Automation\FullAutomation\obj\Release\FullAutomation.dll
+U:\MLutz\1. Programming\Automation\FullAutomation\obj\Release\FullAutomation.xml
+U:\MLutz\1. Programming\Automation\FullAutomation\obj\Release\FullAutomation.pdb

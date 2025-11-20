@@ -1,0 +1,31 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SQLdb
+</name>
+</assembly>
+<members>
+<member name="T:SQLdb.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:SQLdb.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:SQLdb.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:SQLdb.SqlDatabase">
+ <summary>
+ This class encapsulates connecting to and executing SQL commands against a SQL Server database
+ </summary>
+</member>
+</members>
+</doc>
